@@ -1,0 +1,10 @@
+[
+    {
+        "id": "EXP-20260930-570572",
+        "date": "2026-09-29",
+        "category": "Other",
+        "description": "haircut at saloon",
+        "amount": 250.0,
+        "payment_method": "UPI"
+    }
+]
